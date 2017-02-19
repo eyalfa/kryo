@@ -42,8 +42,8 @@
 	</properties>
 	
 	<modules>
-		<module>pom-main.xml</module>
-		<module>pom-shaded.xml</module>
+		<module>kryo-main</module>
+		<module>kryo-shaded</module>
 	</modules>
 	
 	<dependencyManagement>
