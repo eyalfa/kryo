@@ -4,7 +4,6 @@
 		<groupId>com.esotericsoftware</groupId>
 		<artifactId>kryo-parent</artifactId>
 		<version>4.0.1-SNAPSHOT</version>
-		<relativePath>./pom.xml</relativePath>
 	</parent>
 	<artifactId>kryo-shaded</artifactId>
 	<packaging>bundle</packaging>
